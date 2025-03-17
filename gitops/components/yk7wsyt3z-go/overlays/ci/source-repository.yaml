@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: yk7wsyt3z-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/yk7wsyt3z-go
